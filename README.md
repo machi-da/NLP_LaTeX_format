@@ -15,11 +15,11 @@ Overleafで使うことを想定。
 
   ログイン後に左下にある`Go back to v1`のリンクを踏む
 
-  https://github.com/machi-da/NLP_LaTeX_format/blob/master/image/1.png
+  ![1](https://github.com/machi-da/NLP_LaTeX_format/blob/master/image/1.png)
 
 4. v1の画面に移るので、`NEW PROJECT`横のアップロードボタンから`Upload Zip`をクリックし、先ほどのzipファイルを選択
 
-  https://github.com/machi-da/NLP_LaTeX_format/blob/master/image/2.png
+  ![2](https://github.com/machi-da/NLP_LaTeX_format/blob/master/image/2.png)
 
 5. 読み込みが終わったら、右上の歯車を選択し、`LaTex Engine`をChoose AutomaticallyからLaTeX dvipdfへ変更し保存
 
